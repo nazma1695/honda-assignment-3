@@ -61,10 +61,13 @@ body{
     width: 431.2px;
     height: 423.5px;
 }
+
 /* team-area */
 .team-position{
     font-size: small;
 }
+
+/* footer  */
 .footer{
     background-color: #264653;
 }
