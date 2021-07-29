@@ -1,0 +1,94 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* common style or utilities */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.honda-heading{
+    color: #E76F51;
+}
+/* header-area */
+.header-area{
+    background-color: #264653;
+}
+.header-content p{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    color: #E0E0E0;
+}
+.honda-btn-purchase{
+    background: #E76F51;
+    padding: 10px;
+    width: 168px;
+    height: 44px;
+}
+/* fetured-area */
+.fetured-para-text{
+    color: #E76F51;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+}
+.fetured-banner img{
+    width: 288px;
+    height: 243px;
+}
+.f-banner-grayscale img{
+     filter: grayscale(100%);
+}
+/* happy-clients area */
+.happy-clients h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+}
+.h-client-item img{
+    Width: 149px;
+    Height: 149px;
+}
+.h-client-rating{
+    color: #E76F51;
+}
+/* frequent-area  */
+.frequent-banner img{
+    width: 431.2px;
+    height: 423.5px;
+}
+/* team-area */
+.team-position{
+    font-size: small;
+}
+.footer{
+    background-color: #264653;
+}
+.honda-link i{
+    background-color: #E76F51;
+    border-radius: 50%;
+}
+.footer-content p{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    color: #E0E0E0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
